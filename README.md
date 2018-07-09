@@ -9,4 +9,7 @@ AFNI matlab read/write package is needed.
 
 The Neurosynth data is transformed into .MAT files
 
-![figure](Fig_3.png)
+
+The figure from paper illustrating parcellation of the thalamus:
+
+![figure3](Fig_3.png)
