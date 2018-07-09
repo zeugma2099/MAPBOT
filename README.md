@@ -7,4 +7,6 @@ The dataset is based on Neurosynth
 
 AFNI matlab read/write package is needed.
 
+The Neurosynth data is transformed into .MAT files
+
 
