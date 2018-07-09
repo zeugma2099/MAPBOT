@@ -9,4 +9,4 @@ AFNI matlab read/write package is needed.
 
 The Neurosynth data is transformed into .MAT files
 
-!(Fig_3.png)
+![figure](Fig_3.png)
