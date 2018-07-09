@@ -15,6 +15,6 @@ The figure from paper illustrating parcellation of the thalamus:
 ![figure3](Fig_3.png)
 
 
-This demonstrates the related neurosynth topics 
+This demonstrates the related neurosynth topics to 
 
 ![figure6](Fig_6.png)
